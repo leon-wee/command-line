@@ -1,0 +1,3 @@
+# to find specific words in a file
+# Example #1
+grep coding *.txt
