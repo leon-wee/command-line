@@ -1,0 +1,9 @@
+#to see the word count
+#Example #1
+wc <File>
+
+# some specific parameters include
+wc -w     #for word count
+wc -l     #for line count
+wc -m     #for character count
+wc -c     #for byte size count
