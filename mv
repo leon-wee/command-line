@@ -1,0 +1,4 @@
+# The mv command allows you to move files between directories
+# It essentially deletes the file in one directory and creates another copy in the other
+# Example
+mv README ../README
